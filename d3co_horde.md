@@ -21,7 +21,7 @@ Consider **anything** not having "Optional" in it as being mandatory.
 ## Horde Services
 
 -   [ ] Register with PH - [LINK TO IT](https://www.pandemic-horde.org/)
--   [x] Add ESI for **ALL** your accounts and characters - [LINK TO IT](https://www.pandemic-horde.org/settings/infoscopes/scopes)
+-   [ ] Add ESI for **ALL** your accounts and characters - [LINK TO IT](https://www.pandemic-horde.org/settings/infoscopes/scopes)
 -   [ ] Read the PH bulletins! - [LINK TO IT](https://www.pandemic-horde.org/information/corporationbulletin/index)
 -   [ ] Join PH Discord - [LINK TO IT](https://www.pandemic-horde.org/settings/discord/guided)
 -   [ ] Join/Setup Mumble - [LINK TO IT](https://www.pandemic-horde.org/settings/mumble/guided)
