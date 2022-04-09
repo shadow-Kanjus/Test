@@ -62,7 +62,7 @@ Consider **anything** not having "Optional" in it as being mandatory.
 # Information
 
 The bulletins linked above provide a wealth of information. Here is a short list of relevant stuff.
-
+-   [ISK MAKING IN HORDE SPACE](https://www.pandemic-horde.org/forum/index.php?threads/horde-isk-making-areas-rules-and-industry-areas-updated-2022-04-06-now-includes-perrigen-falls-and-exploration-event-sites.437/)
 -   [Event listings (fleets, etc)](https://www.pandemic-horde.org/events/upcoming)
 -   Fleets SRP&rsquo;d by PH are automatically paid out
 -   PH recommends [dscan.info](https://dscan.info/) it seems
