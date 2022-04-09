@@ -68,4 +68,5 @@ The bulletins linked above provide a wealth of information. Here is a short list
 -   PH recommends [dscan.info](https://dscan.info/) it seems
 -   Get paid for training into ships: [Horde Stimulus](https://www.pandemic-horde.org/stimulus)
 -   Horde provides tools for viewing industry jobs outside of Eve. [Access it here](https://www.pandemic-horde.org/industry)
+-   If you want to rat in a marauder or larger you need to read [this post for access to PANKRAB](https://www.pandemic-horde.org/forum/index.php?threads/b-i-g-pankrab-hordes-umbrella-and-crab-sigs-rorqual-beans-marauder-beans-super-bears-carrier-beans-krabnaught-beans-updated-2022-03-01.2040/), **This is mandatory for capital ratting** 
 
