@@ -44,7 +44,7 @@ Consider **anything** not having "Optional" in it as being mandatory.
 
 ## Intel Channels
 
--   [x] Join `Bean-Intel`
+-   [ ] Join `Bean-Intel`
 -   [ ] Join `Etherium_Intel` (especially if you are still moving stuff from IRC)
 
 
