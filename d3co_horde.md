@@ -46,7 +46,7 @@ Consider **anything** not having "Optional" in it as being mandatory.
 
 -   [ ] Join `Bean-Intel`
 -   [ ] Join `Etherium_Intel` (especially if you are still moving stuff from IRC)
-
+-   [ ] Join `INTEL DRONE'S`
 
 <a id="org598f921"></a>
 
