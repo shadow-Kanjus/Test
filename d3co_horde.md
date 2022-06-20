@@ -20,12 +20,13 @@ Consider **anything** not having "Optional" in it as being mandatory.
 
 ## Horde Services
 
--   [ ] Register with PH - [LINK TO IT](https://www.pandemic-horde.org/)
--   [ ] Add ESI for **ALL** your accounts and characters - [LINK TO IT](https://www.pandemic-horde.org/settings/infoscopes/scopes)
--   [ ] Read the PH bulletins! - [LINK TO IT](https://www.pandemic-horde.org/information/corporationbulletin/index)
--   [ ] Join PH Discord - [LINK TO IT](https://www.pandemic-horde.org/settings/discord/guided)
--   [ ] Join/Setup Mumble - [LINK TO IT](https://www.pandemic-horde.org/settings/mumble/guided)
--   [ ] Live, Love, and Learn the Doctrines - [LINK TO IT](https://www.pandemic-horde.org/forum/index.php?threads/official-horde-doctrine-list.3308/)
+-   [ ] Register with PH :: **Mandatory** - [LINK TO IT](https://www.pandemic-horde.org/)
+-   [ ] Add ESI for **ALL** your accounts and characters :: **Mandatory** - [LINK TO IT](https://www.pandemic-horde.org/settings/infoscopes/scopes)
+-   [ ] Register with PH Circle :: **Mandatory** - [LINK TO IT](https://circle.pandemic-horde.org/)
+-   [ ] Read the PH bulletins! :: **Recommended** - [LINK TO IT](https://www.pandemic-horde.org/information/corporationbulletin/index)
+-   [ ] Join PH Discord :: **Mandatory** - [LINK TO IT](https://www.pandemic-horde.org/settings/discord/guided)
+-   [ ] Join/Setup Mumble :: **Mandatory** - [LINK TO IT](https://www.pandemic-horde.org/settings/mumble/guided)
+-   [ ] Live, Love, and Learn the Doctrines :: **Recommended** - [LINK TO IT](https://www.pandemic-horde.org/forum/index.php?threads/official-horde-doctrine-list.3308/)
 
 
 <a id="org0c81cba"></a>
