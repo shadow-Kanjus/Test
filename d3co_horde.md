@@ -20,7 +20,7 @@ Consider **anything** not having "Optional" in it as being mandatory.
 
 ## Horde Services
 
--   [x] Register with PH :: **Mandatory** - [LINK TO IT](https://www.pandemic-horde.org/)
+-   [ ] Register with PH :: **Mandatory** - [LINK TO IT](https://www.pandemic-horde.org/)
 -   [ ] Add ESI for **ALL** your accounts and characters :: **Mandatory** - [LINK TO IT](https://www.pandemic-horde.org/settings/infoscopes/scopes)
 -   [ ] Register with PH Circle :: **Mandatory** - [LINK TO IT](https://circle.pandemic-horde.org/)
 -   [ ] Read the PH bulletins! :: **Recommended** - [LINK TO IT](https://www.pandemic-horde.org/information/corporationbulletin/index)
