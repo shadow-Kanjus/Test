@@ -27,7 +27,7 @@ Consider **anything** not having "Optional" in it as being mandatory.
 -   [ ] Join PH Discord :: **Mandatory** - [LINK TO IT](https://www.pandemic-horde.org/settings/discord/guided)
 -   [ ] Join/Setup Mumble :: **Mandatory** - [LINK TO IT](https://www.pandemic-horde.org/settings/mumble/guided)
 -   [ ] Live, Love, and Learn the Doctrines :: **Recommended** - [LINK TO IT](https://www.pandemic-horde.org/forum/index.php?threads/official-horde-doctrine-list.3308/)
--   [ ] For Marauder, Carrier, and Rorqual usage; it is mandatory to be in PANKRAB - [LINK TO IT](https://www.pandemic-horde.org/forum/index.php?threads/b-i-g-pankrab-hordes-umbrella-and-crab-sigs-rorqual-beans-marauder-beans-super-bears-carrier-beans-krabnaught-beans-updated-2022-03-01.2040/)
+-   [ ] For Marauder, Carrier, and Rorqual usage; it is mandatory to be in PANKRAB :: **Mandatory** - [LINK TO IT](https://www.pandemic-horde.org/forum/index.php?threads/b-i-g-pankrab-hordes-umbrella-and-crab-sigs-rorqual-beans-marauder-beans-super-bears-carrier-beans-krabnaught-beans-updated-2022-03-01.2040/)
 -   [ ] For dank ISK in Pochven; join the `Poch Police` group :: **Recommended** - [LINK TO IT](https://www.pandemic-horde.org/settings/groups/open)
 
 
