@@ -68,7 +68,6 @@ The bulletins linked above provide a wealth of information. Here is a short list
 -   [Event listings (fleets, etc)](https://www.pandemic-horde.org/events/upcoming)
 -   Fleets SRP&rsquo;d by PH are automatically paid out
 -   PH recommends [dscan.info](https://dscan.info/) it seems
--   Get paid for training into ships: [Horde Stimulus](https://www.pandemic-horde.org/stimulus)
 -   Horde provides tools for viewing industry jobs outside of Eve. [Access it here](https://www.pandemic-horde.org/industry)
 -   If you want to rat in a marauder or larger and/or mine in a rorqual you need to read [this post for access to PANKRAB](https://www.pandemic-horde.org/forum/index.php?threads/b-i-g-pankrab-hordes-umbrella-and-crab-sigs-rorqual-beans-marauder-beans-super-bears-carrier-beans-krabnaught-beans-updated-2022-03-01.2040/), **This is mandatory for capital usage**
 -   Additional TL;DR post in Horde forums which covers things that may have been missed here. [LINK TO IT](https://www.pandemic-horde.org/forum/index.php?threads/i-just-landed-in-mj-5f9-now-what-veteran-player-new-corp-edition.3602/)
