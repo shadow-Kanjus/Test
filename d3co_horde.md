@@ -27,8 +27,7 @@ Consider **anything** not having "Optional" in it as being mandatory.
 -   [ ] Join PH Discord :: **Mandatory** - [LINK TO IT](https://www.pandemic-horde.org/settings/discord/guided)
 -   [ ] Join/Setup Mumble :: **Mandatory** - [LINK TO IT](https://www.pandemic-horde.org/settings/mumble/guided)
 -   [ ] Live, Love, and Learn the Doctrines :: **Recommended** - [LINK TO IT](https://www.pandemic-horde.org/forum/index.php?threads/official-horde-doctrine-list.3308/)
--   [ ] For Marauder, Carrier, and Rorqual usage; it is mandatory to be in PANKRAB :: **Mandatory** - [LINK TO IT](https://www.pandemic-horde.org/forum/index.php?threads/b-i-g-pankrab-hordes-umbrella-and-crab-sigs-rorqual-beans-marauder-beans-super-bears-carrier-beans-krabnaught-beans-updated-2022-03-01.2040/)
--   [ ] **Seriously register** with PH Circle :: **Mandatory** - [LINK TO IT](https://circle.pandemic-horde.org/)
+-   [ ] For Marauder, Carrier, and Rorqual usage; it is mandatory to be in PANKRAB :: **Mandatory** - [LINK TO IT](https://www.pandemic-horde.org/forum/index.php?threads/info-horde-capital-group-skill-requirements-and-applying.2199/)
 
 
 <a id="org0c81cba"></a>
@@ -48,7 +47,6 @@ Consider **anything** not having "Optional" in it as being mandatory.
 ## Intel Channels
 
 -   [ ] Join `Bean-Intel`
--   [ ] Join `Etherium_Intel` (especially if you are still moving stuff from IRC)
 -   [ ] Join `INTEL DRONE'S`
 
 <a id="org598f921"></a>
@@ -64,12 +62,12 @@ Consider **anything** not having "Optional" in it as being mandatory.
 
 # Information
 The bulletins linked above provide a wealth of information. Here is a short list of relevant stuff.
--   [ISK MAKING IN HORDE SPACE](https://www.pandemic-horde.org/forum/index.php?threads/horde-isk-making-areas-rules-and-industry-areas-updated-2022-04-06-now-includes-perrigen-falls-and-exploration-event-sites.437/)
+-   [ISK MAKING IN HORDE SPACE](https://www.pandemic-horde.org/forum/index.php?threads/horde-isk-making-rules-areas-and-industry-areas-v-2-0.3738/)
 -   [Event listings (fleets, etc)](https://www.pandemic-horde.org/events/upcoming)
--   Fleets SRP&rsquo;d by PH are automatically paid out
+-   Fleets SRP&rsquo;d by PH are automatically paid out within a week. If it takes longer DM the FC of the fleet.
 -   PH recommends [dscan.info](https://dscan.info/) it seems
 -   Horde provides tools for viewing industry jobs outside of Eve. [Access it here](https://www.pandemic-horde.org/industry)
--   If you want to rat in a marauder or larger and/or mine in a rorqual you need to read [this post for access to PANKRAB](https://www.pandemic-horde.org/forum/index.php?threads/b-i-g-pankrab-hordes-umbrella-and-crab-sigs-rorqual-beans-marauder-beans-super-bears-carrier-beans-krabnaught-beans-updated-2022-03-01.2040/), **This is mandatory for capital usage**
+-   If you want to rat in a marauder or larger and/or mine in a rorqual you need to read [this post for access to PANKRAB](https://www.pandemic-horde.org/forum/index.php?threads/under-construction.3893/#post-26218), **This is mandatory for capital usage**
 -   Additional TL;DR post in Horde forums which covers things that may have been missed here. [LINK TO IT](https://www.pandemic-horde.org/forum/index.php?threads/i-just-landed-in-mj-5f9-now-what-veteran-player-new-corp-edition.3602/)
 -   Horde's **MEGA THREAD**: [Your Guide To Limitless Information](https://www.pandemic-horde.org/forum/index.php?threads/megathread-pandemic-horde-forums-your-guide-to-limitless-information-updated-2022-08-23.824/) 
 
