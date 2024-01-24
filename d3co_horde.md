@@ -27,7 +27,7 @@ Consider **anything** not having "Optional" in it as being mandatory.
 -   [ ] Join PH Discord :: **Mandatory** - [LINK TO IT](https://www.pandemic-horde.org/settings/discord/guided)
 -   [ ] Join/Setup Mumble :: **Mandatory** - [LINK TO IT](https://www.pandemic-horde.org/settings/mumble/guided)
 -   [ ] Live, Love, and Learn the Doctrines :: **Recommended** - [LINK TO IT](https://www.pandemic-horde.org/forum/index.php?threads/official-horde-doctrine-list.3308/)
--   [ ] For Marauder, Carrier, and Rorqual usage; it is mandatory to be in PANKRAB :: **Mandatory** - [LINK TO IT](https://www.pandemic-horde.org/forum/index.php?threads/info-horde-capital-group-skill-requirements-and-applying.2199/)
+-   [ ] For Marauder, Carrier, and Rorqual usage; it is mandatory to be in PANKRAB :: **Mandatory** - [LINK TO IT]([https://www.pandemic-horde.org/forum/index.php?threads/info-horde-capital-group-skill-requirements-and-applying.2199/](https://www.pandemic-horde.org/forum/index.php?threads/b-i-g-pankrab-hordes-umbrella-how-to-use-it-and-pve-guides-fits-2-1-updated-2023-11-20.3893/#post-26218))
 
 
 <a id="org0c81cba"></a>
